@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a>
-    <img width="250px" src="" alt="Logo PoliMi">
+    <img width="250px" src="img/logo_polimi.png" alt="Logo PoliMi">
   </a>
 
   <h3 align="center">Best Bike Paths - RASD & DD</h3>
